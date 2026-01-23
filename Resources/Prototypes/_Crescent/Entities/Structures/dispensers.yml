@@ -103,7 +103,7 @@
     defaultItem: TradeDeedStub
     inventory:
       TradeGoodAmmo: TradeDeedVeryHigh
-      TradeGoodAlcohol: TradeDeedVeryHigh
+      TradeGoodAlcohol: TradeDeedExotic
       TradeGoodNanoTrasen: TradeDeedHigh
       TradeGoodOldCyber: TradeDeedHigh
       TradeGoodOldParts: TradeDeedHigh
@@ -354,7 +354,7 @@
   - type: Dispenser
     defaultItem: TradeDeedStub
     inventory:
-      TradeGoodAlcohol: TradeDeedHigh
+      TradeGoodAlcohol: TradeDeedUnique
       TradeGoodGunparts: TradeDeedHigh
       TradeGoodUnionWeapon: TradeDeedUnique
       TradeGoodUnionArmor: TradeDeedUnique
@@ -365,7 +365,7 @@
       TradeGoodNanoTrasen: TradeDeedHigh
       TradeGoodOldCyber: TradeDeedHigh
       TradeGoodOldParts: TradeDeedHigh
-      TradeGoodSilks: TradeDeedUnique
+      TradeGoodSilks: TradeDeedExotic
       TradeGoodAmmo: TradeDeedHigh
       TradeGoodScrap: TradeDeedHigh
       TradeGoodUnionBallistic: TradeDeedExotic
