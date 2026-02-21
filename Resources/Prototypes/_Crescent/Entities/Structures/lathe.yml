@@ -707,6 +707,8 @@
       - ShipyardManufactorumFlatpack
       - ScrapRefinerFlatpack
       - ClothingUniformJumpsuitShinoharaSecurity
+      - ClothingOuterArmorShinoharaHOSVest
+      - ClothingOuterArmorShinoharaArmor
       - ClothingOuterArmorShinoharaArmorBulwark
       - ClothingHeadHatShinoharaNonevaHelm
       - TelescopicBatonSHI
@@ -719,15 +721,21 @@
       - WeaponMechGustaf
       - ClothingUniformJumpsuitShinoharaHighsec
       - ClothingOuterArmorShinoharaArmorHighsec
+      - ClothingOuterArmorShinoharaArmorHighsecUA
       - ClothingHeadHatShinoharaHelmet
+      - ClothingHeadHatShinoharaHelmetUA
       - ClothingOuterHardsuitHighsec
+      - ClothingOuterHardsuitHighsecUA
+      - ClothingOuterHardsuitHighsecIndependent
       - WeaponPistolBlastpopRed
       - WeaponPistolBlastpopPurple
       - WeaponPistolBlastpopGray
       - WeaponPistolBlastpopGreen
       - WeaponPistolBlastpopGold
       - WeaponPistolBlastpopBlue
+      - WeaponRifleSHINimrod
       - WeaponRifleHoundMarksman
+      - WeaponShotgunBlaster
       - WeaponShotgunSHIDoubleBarreled4g
       - WeaponPistolMk58SHI
       - WeaponSubMachineGunMP49
@@ -779,6 +787,7 @@
       - WeaponMechCombatTaikotyo
       - WeaponLauncherHammerhead
       - ShieldEmitterSmallFlatpack
+      - ShieldEmitterMediumFlatpack
       - GilgameshFlatpack
       - BallisticFablatheFlatpack
       - CyberneticsDermalArmor
@@ -787,6 +796,11 @@
       - SHIShiverBlade
       - ClothingOuterHardsuitSHIJuggernaut
       - ClothingOuterHardsuitSHISpeedsuit
+      - GazpachovLPC
+      - BuffaloLPC
+      - ChanchuLPC
+      - NazaarLPC
+      - MusinyaneLPC
       - FleaLPC
       - FujinLPC
       - MetempsychoticMachineCircuitboard

@@ -267,6 +267,11 @@
     sprite: _Crescent/Objects/Weapons/Melee/shinoharakatana.rsi
     slots:
     - Back
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - SHIKatana
+      - ClothingBeltSheathSHIKatana
+      - TelescopicBatonSHI
 
 - type: entity
   name: SHI-RIP9 cherenzikov shiver blade
@@ -313,6 +318,12 @@
     volume: 1
     sound:
       path: /Audio/Weapons/ebladehum.ogg
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 5
+    recipes:
+      - SHIShiverBlade
+      - SHIKatana
+      - ClothingBeltSheathSHIKatana
 
 - type: entity
   name: dueling khopesh

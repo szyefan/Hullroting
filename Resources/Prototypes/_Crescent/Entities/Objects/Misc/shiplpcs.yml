@@ -575,6 +575,9 @@
     price: 20000
   - type: ShipVoucher
     ship: buffalo
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - BuffaloLPC
 
 - type: entity
   parent: BaseItem
@@ -592,6 +595,9 @@
     price: 20000
   - type: ShipVoucher
     ship: Flea
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - FleaLPC
 
 - type: entity
   parent: BaseItem
@@ -609,6 +615,29 @@
     price: 22000
   - type: ShipVoucher
     ship: gazpachov
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - GazpachovLPC
+
+- type: entity
+  parent: BaseItem
+  id: ShipVoucherChanchu
+  name: CSEC 'Chanchu' pattern LPC fabprint disk
+  description: An LPC fabprint disk loaded with a civilian Chanchu-class freight trader pattern. Has to be redeemed at a shipyard console.
+  components:
+  - type: Item
+    size: Small
+  - type: Sprite
+    sprite: _Crescent/Objects/Misc/lpcchip.rsi
+    layers:
+    - state: icon
+  - type: StaticPrice
+    price: 45000
+  - type: ShipVoucher
+    ship: Chanchu
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - ChanchuLPC
 
 - type: entity
   parent: BaseItem
@@ -626,6 +655,9 @@
     price: 25000
   - type: ShipVoucher
     ship: Musinyane
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - MusinyaneLPC
 
 - type: entity
   parent: BaseItem
@@ -643,6 +675,9 @@
     price: 5000
   - type: ShipVoucher
     ship: Nazaar
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - NazaarLPC
 
 - type: entity
   parent: BaseItem
@@ -660,6 +695,9 @@
     price: 60000
   - type: ShipVoucher
     ship: Fujin
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - FujinLPC
 
 #ncsp
 

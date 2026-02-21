@@ -467,6 +467,12 @@
     magState: mag
     steps: 2
     zeroVisible: false
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 3
+    recipes:
+      - WeaponLauncherHammerhead
+      - CartridgeHammerheadRocket
+      - WeaponLauncherDisposableRocket
 
 # @Tomahawk101 (Tomahawk101) donor gun
 - type: entity

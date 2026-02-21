@@ -244,6 +244,10 @@
     sound: /Audio/_Crescent/Weapons/Interact/gun_pick.ogg
   - type: EmitSoundOnDrop
     sound: /Audio/_Crescent/Weapons/Interact/gun_drop.ogg
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponShotgunBlaster
+      - WeaponShotgunSHIDoubleBarreled4g
 
 - type: entity
   name: SHI M135 Double-Barrel 12g
@@ -277,6 +281,10 @@
         Blunt: 8.5
   - type: DamageOtherOnHit
     staminaCost: 7.5
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponShotgunSHIDoubleBarreled4g
+      - WeaponShotgunBlaster
 
 - type: entity
   name: IRM DA-13 Reno 12g
@@ -312,6 +320,11 @@
   - type: BallisticAmmoProvider
   - type: StaticPrice
     price: 2500
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 2
+    recipes:
+      - WeaponShotgunSpas
+      - WeaponShotgunEnforcer
 
 - type: entity
   name: IRM DA-2 Matusa 12g

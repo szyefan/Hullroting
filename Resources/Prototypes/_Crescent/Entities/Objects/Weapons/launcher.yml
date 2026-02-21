@@ -94,6 +94,11 @@
   - type: HeldSpeedModifier
     walkModifier: 0.8
     sprintModifier: 0.8
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 2
+    recipes:
+      - WeaponLauncherMilkor
+
 
 - type: entity
   name: SHI LAM-17 84mm
@@ -135,6 +140,9 @@
         fontSize: 12
         color: "#1aff00"
         requireDetailRange: false
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponLauncherDisposableRocket
 
 - type: entity
   name: PTA M-32 Commando 44mm

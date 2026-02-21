@@ -315,6 +315,10 @@
     steps: 1
     zeroVisible: true
   - type: Appearance
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponSubMachineGunMP49
+      - WeaponSubMachineGunSabre
 
 - type: entity
   name: SHI M221s Phantom 6mm
@@ -368,6 +372,10 @@
     steps: 1
     zeroVisible: true
   - type: Appearance
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponSubMachineGunSabre
+      - WeaponSubMachineGunMP49
 
 - type: entity
   name: NT WT50 Sabre 11mm
@@ -420,6 +428,13 @@
     steps: 11
     zeroVisible: true
   - type: Appearance
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 2
+    recipes:
+      - WeaponSubMachineGunWt550Hullrot
+      - WeaponSubMachineGunSabre
+      - WeaponSubMachineGunMP49
+
 
 #TFSC
 - type: entity

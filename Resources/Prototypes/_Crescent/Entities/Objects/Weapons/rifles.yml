@@ -135,6 +135,11 @@
     whitelist:
       tags:
       - CartridgeRifle
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponRifleSHINimrod
+      - WeaponRifleHoundMarksman
+      - WeaponRifleGoro
 
 - type: entity
   parent: [BaseWeaponSniper, BaseGunWieldable, StreeCredRedeemable]
@@ -457,6 +462,11 @@
   - type: Appearance
   - type: StaticPrice
     price: 2500
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponRifleGoro
+      - WeaponRifleSHINimrod
+      - WeaponRifleHoundMarksman
 
 
 - type: entity
@@ -796,6 +806,11 @@
   - type: Appearance
   - type: StaticPrice
     price: 1000
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponRifleHoundMarksman
+      - WeaponRifleGoro
+      - WeaponRifleSHINimrod
 
 - type: entity
   name: HP M17-SA Hunter 7.62x51mm
@@ -967,6 +982,11 @@
   - type: Appearance
   - type: StaticPrice
     price: 1000
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 2
+    recipes:
+      - WeaponRifleBarghest
+      - WeaponSniperHristov
 
 - type: entity
   name: NCSP SVD 12.7x99mm

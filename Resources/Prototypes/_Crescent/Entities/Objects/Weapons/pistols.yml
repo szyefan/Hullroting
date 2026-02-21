@@ -355,6 +355,11 @@
             - CartridgePistolSmart
   - type: StaticPrice
     price: 3500
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 3
+    recipes:
+      - WeaponPistolSmartpistolSHI
+      - WeaponPistolMk58
 
 #single use pistols
 

@@ -58,6 +58,11 @@
   - type: Appearance
   - type: StaticPrice
     price: 3000
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 2
+    recipes:
+      - WeaponSniperHristov
+      - WeaponRifleBarghest
 
 - type: entity
   name: IRM AVR-H Imperator 15.2x169mm

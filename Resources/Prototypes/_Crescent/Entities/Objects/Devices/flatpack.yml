@@ -600,6 +600,10 @@
     - state: kit
   - type: StaticPrice
     price: 25000
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 3
+    recipes:
+      - GilgameshFlatpack #If you manage to steal this, you deserve it.
 
 - type: entity
   parent: BaseFlatpack
@@ -839,6 +843,10 @@
     - state: ame-part
   - type: StaticPrice
     price: 9000
+  - type: ReverseEngineering
+    difficulty: 5
+    recipes: 
+      - ShieldEmitterSmallFlatpack
 
 - type: entity
   parent: BaseFlatpack
@@ -853,6 +861,10 @@
     - state: ame-part
   - type: StaticPrice
     price: 9000
+  - type: ReverseEngineering
+    difficulty: 6
+    recipes: 
+      - ShieldEmitterMediumFlatpack
 
 - type: entity
   parent: BaseFlatpack
