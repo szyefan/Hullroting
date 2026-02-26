@@ -317,6 +317,9 @@
     steps: 3
     zeroVisible: true
   - type: Appearance
+    difficulty: 2
+    recipes:
+      - WeaponLightMachineGunDSMDominion
 
 - type: entity
   name: HGS GrMG-4 Baum 7.62x51mm

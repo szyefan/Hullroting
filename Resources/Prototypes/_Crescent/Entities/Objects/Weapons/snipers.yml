@@ -123,6 +123,11 @@
   - type: Appearance
   - type: StaticPrice
     price: 2000
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 2
+    recipes:
+      - WeaponSniperImperator
+      - WeaponSniperDSMLegax
 
 - type: entity
   name: NCWL PTRD-94 Molot 15.2x169mm

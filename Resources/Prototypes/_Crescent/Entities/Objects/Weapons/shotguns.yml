@@ -316,6 +316,11 @@
   - type: StaticPrice
     price: 1500
   - type: GunRequiresWield #which chuddy didnt include wielding on this..
+  - type: ReverseEngineering # Sector Crescent
+    difficulty: 2
+    recipes:
+      - WeaponShotgunReno
+      - WeaponShotgunDSMMatusa
 
 - type: entity
   name: NT SPAS-13 12g
@@ -356,7 +361,6 @@
     - suitStorage
   - type: Gun
     fireRate: 2.5
-    damageModifier: 1.25
     shotgunSpreadMultiplier: 3.5
     selectedMode: SemiAuto
     availableModes:
@@ -371,6 +375,9 @@
     whitelist:
       tags:
       - ShellShotgun
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - WeaponShotgunDSMMatusa
 
 - type: entity
   name: NCWL Toz-12 Pioneer Double-Barrel 12g

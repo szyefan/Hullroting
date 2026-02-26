@@ -33,6 +33,9 @@
     price: 8000
   - type: ShipVoucher
     ship: Gnosis
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - GnosisLPC
 
 - type: entity
   parent: BaseItem
@@ -50,6 +53,9 @@
     price: 195000
   - type: ShipVoucher
     ship: Suzerain
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - SuzerainLPC
 
 - type: entity
   parent: BaseItem
@@ -67,6 +73,9 @@
     price: 175000
   - type: ShipVoucher
     ship: Nemesis
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - NemesisLPC
 
 - type: entity
   parent: BaseItem
@@ -84,6 +93,9 @@
     price: 35000
   - type: ShipVoucher
     ship: Janissary
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - JanissaryLPC
 
 - type: entity
   parent: BaseItem
@@ -101,6 +113,9 @@
     price: 15000
   - type: ShipVoucher
     ship: Voruna
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - VorunaLPC
 
 - type: entity
   parent: BaseItem
@@ -118,6 +133,9 @@
     price: 10000
   - type: ShipVoucher
     ship: Perigale
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - PerigaleLPC
 
 - type: entity
   parent: BaseItem
@@ -135,7 +153,9 @@
     price: 40000
   - type: ShipVoucher
     ship: Sunesis
-
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - SunesisLPC
 
 - type: entity
   parent: BaseItem
@@ -153,6 +173,9 @@
     price: 60000
   - type: ShipVoucher
     ship: Triumphant
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - TriumphantLPC
 
 - type: entity
   parent: BaseItem
@@ -170,6 +193,9 @@
     price: 136300
   - type: ShipVoucher
     ship: Laelaps
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - LaelapsLPC
 
 - type: entity
   parent: BaseItem
@@ -187,6 +213,9 @@
     price: 15000
   - type: ShipVoucher
     ship: Ibis
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - IbisLPC
 
 - type: entity
   parent: BaseItem
@@ -204,6 +233,9 @@
     price: 40000
   - type: ShipVoucher
     ship: Covetor
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - CovetorLPC
 
 - type: entity
   parent: BaseItem
@@ -221,6 +253,9 @@
     price: 12000
   - type: ShipVoucher
     ship: Redemptor
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - RedemptorLPC
 
 - type: entity
   parent: BaseItem
@@ -238,6 +273,9 @@
     price: 30000
   - type: ShipVoucher
     ship: Praxis
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - PraxisLPC
 
 - type: entity
   parent: BaseItem
@@ -306,6 +344,9 @@
     price: 46200
   - type: ShipVoucher
     ship: Torturer
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - TorturerLPC
 
 - type: entity
   parent: BaseItem
@@ -323,6 +364,9 @@
     price: 40000
   - type: ShipVoucher
     ship: Magnate
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - MagnateLPC
 
 #ncwl
 

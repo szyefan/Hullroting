@@ -241,6 +241,10 @@
     sound: /Audio/_Crescent/Weapons/Interact/gun_pick.ogg
   - type: EmitSoundOnDrop
     sound: /Audio/_Crescent/Weapons/Interact/gun_drop.ogg
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 2
+    recipes:
+      - WeaponLauncherM320
 
 - type: entity
   name: PTA M-5 Carl Gustaf 84mm #This one is alright, not many people use rocket launchers.

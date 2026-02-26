@@ -268,7 +268,7 @@
     price: 3333
   - type: ReverseEngineering
     difficulty: 4
-    recipes: 
+    recipes:
       - EnergySwordFamilies
       - Plashammer
       - PlasHalberd
@@ -321,7 +321,7 @@
     fireStacks: 1
   - type: ReverseEngineering
     difficulty: 4
-    recipes: 
+    recipes:
       - PlasHalberd
       - Plashammer
       - EnergySwordFamilies
@@ -359,7 +359,7 @@
     fireStacks: 10 #BURN ALIVE ONCE ARMOR FAILS
   - type: ReverseEngineering
     difficulty: 4
-    recipes: 
+    recipes:
       - Plashammer
       - EnergySwordFamilies
       - PlasHalberd
@@ -456,6 +456,10 @@
     delay: 1
   - type: IgniteOnMeleeHit
     fireStacks: 1
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 4
+    recipes:
+      - ImperialPsionBoundlightStaff
 
 #- type: entity
 #  name: HGS VAP-31X Pulssiase beam rifle
@@ -534,6 +538,10 @@
   - type: ProjectileBatteryAmmoProvider
     proto: InfantryPlasmaBoltMedium
     fireCost: 35 # 60 shots, can't reload in the field
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 4
+    recipes:
+      - WeaponPlasmaRifleSeethe
 
 - type: entity
   id: InfantryPlasmaBoltMedium

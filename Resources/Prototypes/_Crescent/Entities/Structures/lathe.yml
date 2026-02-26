@@ -713,18 +713,22 @@
       - Plashammer
       - BeelzebubLPC
       # TAP end
+      # DSM start
       - ClothingMaskImperialCombatGasmask
       - ClothingOuterCoatImperialParade
       - ClothingUniformJumpsuitImperialDoctor
       - ClothingUniformJumpsuitImperialFreeholder
       - ClothingHandsGlovesImperialWorkerGloves
       - ClothingShoesBootsImperialLongboots
+      - ClothingShoesBootsMagDSM
       - ClothingHandsGlovesImperialLonggloves
       - ClothingHeadHelmetImperialWorkerHelmet
       - ClothingHeadHatImperialPeakedCap
       - ClothingOuterCoatImperialSoftsuit
       - ClothingHeadHelmetImperialEVA
       - ClothingHeadHatImperialHat
+      - ClothingHeadHatImperialBeret
+      - ClothingUniformJumpsuitImperialCombat
       - ClothingUniformJumpsuitImperialNobleMale
       - ClothingUniformJumpsuitImperialNobleFemale
       - ClothingUniformJumpsuitImperialSoldierFormal
@@ -739,6 +743,15 @@
       - ClothingHeadHelmetImperialKnightCommanderHelmet
       - ClothingOuterArmorImperialArmorPrestige
       - ClothingOuterHardsuitImperialKnight
+      - ClothingOuterCoatClarizianOfficer
+      - ClothingUniformJumpsuitClarizeCombat
+      - ClothingUniformJumpsuitClarizeDoctor
+      - ClothingUniformJumpsuitClarizeOfficer
+      - ClothingHeadHatClarizeBeret
+      - ClothingOuterArmorClarizianTrooperArmor
+      - ClothingHeadHelmetClarizianTrooperHelmet
+      - ClothingOuterHardsuitClarizianWorker
+      - ClothingOuterHardsuitClarize
       - ClothingOuterHardsuitImperialNullweavePsion
       - ImperialPsionBoundlightStaff
       - CarrionFlatpack
@@ -754,6 +767,8 @@
       - TorturerLPC
       - MagnateLPC
       - SunesisLPC
+      - PraxisLPC
+      - GnosisLPC
       - ClothingBeltSheathDSMRapier
       - ClothingBeltSheathDSMSabre
       - DSMRapier
@@ -769,6 +784,8 @@
       - WeaponMechCombatPlasmaRifle
       - WeaponMechCombatPlasmaCannon
       - WeaponLightMachineGunDSMDominion
+      - WeaponSniperImperator
+      - WeaponShotgunDSMMatusa
       - WeaponShotgunReno
       - WeaponSniperDSMLegax
       - WeaponRifleDSMLegionnaire
@@ -787,6 +804,7 @@
       - JanissaryLPC
       - VorunaLPC
       - PerigaleLPC
+      # DSM end
       # NCWL start
       - ClothingHeadHelmetNCWLEVA
       - ClothingOuterNCWLEVA

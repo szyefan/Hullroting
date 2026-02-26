@@ -247,6 +247,10 @@
     steps: 1
     zeroVisible: true
   - type: Appearance
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - WeaponSubMachineGunC20rImperial
+      - WeaponSubMachineGunBeetle
 
 - type: entity
   name: IRM Arbiter 9x19mm
@@ -781,10 +785,10 @@
 
 #SRM
 - type: entity
-  name: HP Mak-11 Beetle 9x19mm
+  name: MP-111 Beetle 9x19mm
   parent: [BaseWeaponSubMachineGun, StreeCredRedeemable]
   id: WeaponSubMachineGunBeetle
-  description: A crude weapon manufactured by the Hunter's Pride merchant's guild. Intended as nothing more than cheap armament to stuff into the hands of expendable fodder.
+  description: A crude but compact weapon often manufactured in frontier systems. Usually ends up in the hands of conscripted militias or soldiers receiving armory budget cuts.
   components:
   - type: StaticPrice
     price: 1000
@@ -798,8 +802,9 @@
   - type: Clothing
     sprite: _Crescent/Objects/Weapons/Guns/beetle.rsi
   - type: Item
+    size: Small
     shape:
-    - 0,0,2,1
+    - 0,0,1,1
   - type: Gun
     minAngle: 2
     maxAngle: 20
@@ -834,6 +839,9 @@
     steps: 1
     zeroVisible: true
   - type: Appearance
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - WeaponSubMachineGunBeetle
 
 #ATH
 - type: entity

@@ -354,6 +354,9 @@
     whitelist:
       tags:
       - CartridgeLightRifle
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponSniperDSMLegax
 
 - type: entity
   name: NCWL Häyhä 15.2x169mm Anti-materiel rifle

@@ -568,6 +568,10 @@
     - state: kit
   - type: StaticPrice
     price: 3000
+  - type: ReverseEngineering # Sector Crescent
+    difficulty: 2
+    recipes:
+      - CarrionFlatpack
 
 - type: entity
   parent: BaseFlatpack
@@ -682,7 +686,7 @@
     - state: ame-part
   - type: StaticPrice
     price: 500
-  - type: ReverseEngineering
+  - type: ReverseEngineering # Sector Crescent
     difficulty: 2
     recipes:
       - MufflerFlatpack
@@ -700,6 +704,10 @@
     - state: kit
   - type: StaticPrice
     price: 25000
+  - type: ReverseEngineering # Sector Crescent
+    difficulty: 3
+    recipes:
+      - PaladinFlatpack
 
 - type: entity
   parent: BaseFlatpack
@@ -728,6 +736,10 @@
     - state: kit
   - type: StaticPrice
     price: 12000
+  - type: ReverseEngineering # Sector Crescent
+    difficulty: 3
+    recipes:
+      - WandererFlatpack
 
 - type: entity
   parent: BaseFlatpack

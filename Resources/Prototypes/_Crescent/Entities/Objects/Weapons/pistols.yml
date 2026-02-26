@@ -318,6 +318,10 @@
       path: /Audio/_Crescent/Weapons/Guns/pistol_2/pistol_gunshot_1.ogg
   - type: StaticPrice
     price: 1000
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - WeaponRevolverArgenti
+      - WeaponPistolComplianceImperial
 
 - type: entity
   name: SHI-25T Shinobi 12mm
@@ -569,6 +573,11 @@
             - CartridgeMagnum
   - type: StaticPrice
     price: 1500
+  - type: ReverseEngineering # Sector Crescent
+    recipes:
+      - WeaponPistolNeoVolker
+      - WeaponRevolverArgenti
+      - WeaponPistolComplianceImperial
 
 - type: Tag
   id: MagazinePistolSmartgun

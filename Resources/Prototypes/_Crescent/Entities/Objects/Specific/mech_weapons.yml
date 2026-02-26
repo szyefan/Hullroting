@@ -560,6 +560,11 @@
   - type: Tag
     tags:
     - ScoutMechEquipment
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 3
+    recipes:
+      - WeaponMechCombatPlasmaRifle
+      - WeaponMechCombatPlasmaCannon
 
 - type: entity
   id: WeaponMechCombatImperialSMG
@@ -588,6 +593,9 @@
   - type: Tag
     tags:
     - ScoutMechEquipment
+  - type: ReverseEngineering # SectorCrescent
+    recipes:
+      - WeaponMechCombatImperialSMG
 
 - type: entity
   id: WeaponMechCombatImperialAutolaser
@@ -615,6 +623,10 @@
   - type: Tag
     tags:
     - ScoutMechEquipment
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 2
+    recipes:
+      - WeaponMechCombatImperialAutolaser
 
 - type: hitscan
   id: LumenLaser
@@ -660,6 +672,11 @@
   - type: Tag
     tags:
     - MediumMechEquipment
+  - type: ReverseEngineering # SectorCrescent
+    difficulty: 3
+    recipes:
+      - WeaponMechCombatPlasmaCannon
+      - WeaponMechCombatPlasmaRifle
 
 - type: entity
   id: WeaponMechCombatCarlGustaf

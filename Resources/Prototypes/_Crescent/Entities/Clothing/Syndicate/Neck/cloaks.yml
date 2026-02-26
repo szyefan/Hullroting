@@ -25,3 +25,4 @@
    - type: ReverseEngineering # Sector Crescent
      recipes:
        - ClothingNeckCloakHedgeknightCapelet
+       - ClothingNeckCloakImperialCapelet
