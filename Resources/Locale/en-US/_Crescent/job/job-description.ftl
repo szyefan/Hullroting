@@ -164,3 +164,10 @@ job-description-unionfall-dsm-officer = Lead small squads. Ensure cohesion. List
 job-description-unionfall-dsm-doctor = Keep your fellow men alive.
 job-description-unionfall-dsm-rifleman = Be the rank and file. Pilot fighters and ultralights. Listen to your superiors.
 job-description-unionfall-dsm-cadet = Listen to your superiors. Keep your head down and learn.
+
+# event roles
+job-description-ncwl-conscript-event = Conscript from the NCWL Militia. If you can read this, notify an Artificer in the Discord.
+job-description-ncwl-conscript-event-SMG = Conscript from the NCWL Militia. If you can read this, notify an Artificer in the Discord.
+job-description-ncwl-spetsnaz-event-SMG = Spetsnaz operator directly from Chengridz. If you can read this, notify an Artificer on the Discord.
+job-description-ncwl-spetsnaz-event = Spetsnaz operator directly from Chengridz. If you can read this, notify an Artificer on the Discord.
+job-description-ncwl-spetsnaz-event-kapitan = Spetsnaz Kapitan directly from Chengridz. If you can read this, notify an Artificer on the Discord.

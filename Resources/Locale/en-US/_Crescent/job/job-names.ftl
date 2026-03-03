@@ -166,3 +166,10 @@ job-name-unionfall-dsm-officer = Knight
 job-name-unionfall-dsm-doctor = Medicant
 job-name-unionfall-dsm-rifleman = Man-at-arms
 job-name-unionfall-dsm-cadet = Levyman
+
+# event roles
+job-name-ncwl-conscript-event = Homeguard Militiaman
+job-name-ncwl-conscript-event-SMG = Homeguard SMG Militiaman
+job-name-ncwl-spetsnaz-event-SMG = Chengridz SOF Operator
+job-name-ncwl-spetsnaz-event = Chengridz SOF Operator
+job-name-ncwl-spetsnaz-event-kapitan = Chengridz SOF Kapitan
