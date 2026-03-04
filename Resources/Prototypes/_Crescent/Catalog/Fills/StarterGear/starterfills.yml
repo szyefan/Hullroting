@@ -502,3 +502,27 @@
         - id: MechaniteAutoinjector
         - id: MechaniteAutoinjector
         - id: CrowbarRed
+        
+- type: entity
+  categories: [ HideSpawnMenu ]
+  parent: ClothingBackpackDSM
+  id: ClothingBackpackDSMConscript
+  components:
+    - type: StorageFill
+      contents:
+        - id: CrowbarRed
+        - id: FoodPSB
+        - id: FoodPSB
+        - id: DrinkMREFlask
+         
+- type: entity
+  categories: [ HideSpawnMenu ]
+  parent: ClothingBackpackNCWL
+  id: ClothingBackpackNCWLConscript
+  components:
+    - type: StorageFill
+      contents:
+        - id: CrowbarRed
+        - id: FoodPSB
+        - id: FoodPSB
+        - id: DrinkMREFlask

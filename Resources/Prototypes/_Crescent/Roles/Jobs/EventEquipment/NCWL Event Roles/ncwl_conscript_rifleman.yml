@@ -57,7 +57,7 @@
     id: NCWLHomeguardSoldatPDA
     outerClothing: ClothingOuterHardsuitNCWLInfantry
     pocket1: DoubleEmergencyOxygenTankFilled
-    back: ClothingBackpackNCWL
+    back: ClothingBackpackNCWLConscript
     gloves: ClothingHandsGlovesCombat
     mask: ClothingMaskNCWLBalaclava
     ears: ClothingHeadsetNCWL

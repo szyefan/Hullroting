@@ -56,9 +56,10 @@
     ears: ClothingHeadsetEmpire
     jumpsuit: ClothingUniformJumpsuitImperialCombat
     shoes: ClothingShoesBootsImperialJackboots
-    back: ClothingBackpackDSM
+    back: ClothingBackpackDSMConscript
     outerClothing: ClothingOuterHardsuitImperialSoldier
     gloves: ClothingHandsGlovesImperialLonggloves
     pocket1: DoubleEmergencyOxygenTankFilled
     belt: ClothingBeltBeltAssaultShieldLevymenSMG
     suitstorage: WeaponSubMachineGunC20rHullrot
+
